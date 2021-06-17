@@ -1,0 +1,52 @@
+Traceback (most recent call last):
+  File "dart_crawl.py", line 65, in <module>
+    for i in corp_list:
+NameError: name 'corp_list' is not defined
+Traceback (most recent call last):
+  File "/home/ubuntu/python/Python_Example/dart_crawl.py", line 15, in <module>
+    argv_value_1 = sys.argv[1]
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/home/ubuntu/python/Python_Example/dart_crawl.py", line 15, in <module>
+    argv_value_1 = sys.argv[1]
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/home/ubuntu/python/Python_Example/dart_crawl.py", line 15, in <module>
+    argv_value_1 = sys.argv[1]
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/home/ubuntu/python/Python_Example/dart_crawl.py", line 15, in <module>
+    argv_value_1 = sys.argv[1]
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/home/ubuntu/python/Python_Example/dart_crawl.py", line 15, in <module>
+    argv_value_1 = sys.argv[1]
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/home/ubuntu/python/Python_Example/dart_crawl.py", line 15, in <module>
+    argv_value_1 = sys.argv[1]
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/home/ubuntu/python/Python_Example/dart_crawl.py", line 15, in <module>
+    argv_value_1 = sys.argv[1]
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/home/ubuntu/python/Python_Example/dart_crawl.py", line 15, in <module>
+    argv_value_1 = sys.argv[1]
+NameError: name 'sys' is not defined
+20210101 20210331 11013
+20210101 20210331 11012
+20210101 20210331 11014
+20210101 20210331 11011
+20210110 20210615 11013
+20210110 20210615 11012
+20210110 20210615 11014
+20210110 20210615 11011
+20210101 20210105 11013
+20210101 20210105 11012
+20210101 20210105 11014
+20210101 20210105 11011
+20210610 20210615 11013
+20210610 20210615 11012
+20210610 20210615 11014
+20210610 20210615 11011
